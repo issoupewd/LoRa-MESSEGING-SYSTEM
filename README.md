@@ -6,7 +6,7 @@
 
 ## ⚠️ Warning
 
-**This project uses the LoRa 433 MHz band for communication. Be mindful of local regulations on frequency usage.**
+**This project uses the 433 MHz band for communication. Be mindful of local regulations on frequency usage.**
 
 This project is a LoRa-based messaging system built using the Arduino programming language, featuring the RP2040 microcontroller, the LoRa RA-02 transmitter-receiver module, a 0.96" OLED display, and a push-button matrix.
 
