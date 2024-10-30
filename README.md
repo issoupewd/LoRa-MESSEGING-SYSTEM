@@ -14,6 +14,39 @@ In this repository, you will find the circuit schematic and code required to imp
 
 ![Circuit Diagram](circuit.png)
 
+## Table of Pins Used
+
+| Modules       | Pins on Module | Pins on Microcontroller |
+|---------------|----------------|-------------------------|
+| **OLED 0.96"** | VCC            | 3V3                    |
+|               | GND            | GND                    |
+|               | SDA            | GP20                   |
+|               | SCK            | GP21                   |
+| **LoRa Ra-02**| GND            | GND                    |
+|               | 3V3            | 3V3                    |
+|               | RST            | GP22                   |
+|               | DI00           | GP14                   |
+|               | NSS            | GP17                   |
+|               | MOSI           | GP19                   |
+|               | MISO           | GP16                   |
+|               | SCK            | GP18                   |
+| **Keyboard**  | L0             | GP10                   |
+|               | L1             | GP11                   |
+|               | L2             | GP12                   |
+|               | C0             | GP9                    |
+|               | C1             | GP8                    |
+|               | C2             | GP7                    |
+|               | C3             | GP6                    |
+|               | C4             | GP5                    |
+|               | C5             | GP4                    |
+|               | C6             | GP3                    |
+|               | C7             | GP2                    |
+|               | C8             | GP1                    |
+|               | C9             | GP0                    |
+| **Buzzer**    | VCC            | GP13                   |
+|               | GND            | GND                    |
+
+
 ## Key Mapping
 
 Below is the layout of the button matrix, indicating the positions and functions of each button for message navigation and entry.
