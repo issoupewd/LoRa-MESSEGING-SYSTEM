@@ -18,7 +18,7 @@ In this repository, you will find the circuit schematic and code required to imp
 
 Below is the layout of the button matrix, indicating the positions and functions of each button for message navigation and entry.
 
-![Button Matrix Key Mapping](keymapping.png)
+![Button Matrix Key Mapping](keys.png)
 
 ## Project Overview
 
