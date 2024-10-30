@@ -183,10 +183,10 @@ void printBoot() {
   // Affichage du texte "LoRaMessenger"
   display.setCursor(10, 25);  // Position du deuxième texte
   display.println("   LoRaMessenger");
-  // Affichage du texte "by Rania & Kahina"
+  // Affichage du texte issoupewd and ranpewd
   display.setTextSize(1);    // Réduction de la taille de police pour le troisième texte
   display.setCursor(0, 55);  // Position du troisième texte
-  display.println("    by pewdsNETWORK  ");
+  display.println("    by IssouPewd & RanPewd  ");
   display.display();  // Affiche le contenu de l'écran
 }
 
