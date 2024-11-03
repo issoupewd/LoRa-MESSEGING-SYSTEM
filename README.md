@@ -1,6 +1,6 @@
 # LoRa Messaging System
 
-> **This project is a collaborative effort with [RanPewd](https://github.com/Raniahafid)**
+> **This project is a collaborative effort with [RanPewd](https://github.com/RanPewd)**
 
 ![Real Picture of the LoRa Messaging System](real_pic.jpg)
 
