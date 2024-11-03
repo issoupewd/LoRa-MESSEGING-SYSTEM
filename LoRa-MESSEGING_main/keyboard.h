@@ -7,7 +7,7 @@ int ran = 2;
 int pause = 300;
 int keyi = 0;
 int keyj = 0;
-
+//3 keyboards of 3 by 10
 char keyb[9][10] = {
   { 'a', 'z', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p' },
   { 'q', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm' },
